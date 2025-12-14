@@ -1,6 +1,8 @@
 # 💫 About Me:
-Hi 👋, I'm Moch Aldrian  <br>Software Engineer | Web Developer | Problem Solver<br><br>🔭 I’m currently working on  <br>• Web-based Project Management & Monitoring System  <br>• SaaS & Company Profile Websites using Next.js & Laravel  <br><br>👯 I’m looking to collaborate on  <br>• Open-source web apps  <br>• SaaS products for UMKM & corporate clients  <br>• Dashboard, automation, and productivity tools  <br><br>🤝 I’m looking for help with  <br>• Scaling web applications  <br>• Performance optimization & architecture best practices  <br><br>🌱 I’m currently learning  <br>• Advanced Next.js (App Router, Animations, SEO)  <br>• System design & clean architecture  <br>• Cloud deployment & DevOps basics  <br><br>💬 Ask me about  <br>• Laravel & REST API  <br>• Next.js, Tailwind CSS, shadcn/ui  <br>• Google APIs (Maps, OAuth, Calendar)  <br>• Project monitoring systems  <br><br>⚡ Fun fact  <br>• I enjoy turning complex requirements into clean systems  <br>• "Just another soul wandering this world — stay safe, don’t go hollow."<br>
+Hi 👋, I'm Moch Aldrian  
+Software Engineer | Web Developer  
 
+I may not always have the answer right away, but I’m the kind of person who will dig deep, learn fast, and figure things out until it works. I enjoy solving problems, building clean systems, and continuously improving through real projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mchsaa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moch-saepulloh-aldrian-538a30340) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mochaldrian96@gmail.com) 
